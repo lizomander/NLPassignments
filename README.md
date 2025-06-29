@@ -1,6 +1,8 @@
 # 🧠 NLP Portfolio – Student Projects in Natural Language Processing
 
 This repository contains a series of NLP assignments I completed as part of my AI studies. Each notebook demonstrates different NLP techniques and machine learning models using real-world data and tasks.
+IMPORTANT: These are not my own projects, and given to me by my practical class supervisor!
+
 
 ---
 
