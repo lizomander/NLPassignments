@@ -49,5 +49,5 @@ IMPORTANT: These are not my own projects, and given to me by my practical class 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/lizomander/nlp-portfolio.git
-   cd nlp-portfolio
+   git clone https://github.com/lizomander/NLPassignments.git
+   cd NLPassignments
