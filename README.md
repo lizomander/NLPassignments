@@ -44,10 +44,13 @@ IMPORTANT: These are not my own projects, and given to me by my practical class 
 - Data visualization and model interpretability
 
 ---
+## 📘 Academic Honesty Policy
 
-## 🚀 Getting Started
+This repository contains coursework completed by me for the course **Natural Language Processing** at **Technische Hochschule Ingolstadt**.
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/lizomander/NLPassignments.git
-   cd NLPassignments
+The content is published to demonstrate my individual work and programming skills to potential employers and collaborators.
+
+🚫 **Unauthorized copying or reuse of this material for academic submissions is strictly prohibited.**  
+Please respect academic integrity policies at your institution.
+
+If you're interested in my work or have questions about the implementation, feel free to reach out!
